@@ -1,0 +1,2 @@
+
+ûjavascript:S6478"ÞDo not define components during render. React will see a new component type on every render and destroy the entire subtree\u8217s DOM nodes and state. Instead, move this component definition out of the parent component \u8220TabNavigator\u8221 and pass data as props. If you want to allow component creation in props, set allowAsProps option to true.(ª–Þ¨
